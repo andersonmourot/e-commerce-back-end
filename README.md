@@ -6,6 +6,8 @@ This is an e-commerce back end that allows the user to sort through their databa
 
 ## Video Link:
 
+https://drive.google.com/file/d/17eewL1npM2Hbqi7bi6THHbmz2M3xJrSG/view
+
 ## Table of Contents
 
 *[Installation](#installation)
